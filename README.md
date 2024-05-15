@@ -23,6 +23,8 @@
 - 🌱 I’m currently learning Playwright, Karate API Automation, Cypress
   
 - :zap: I've integrated AI Powered Applitools in existing Automatiom framework (BDD) to overcome cosmetic issues
+
+- 📫 How to reach me **nairvishnu42@gmail.com**
   
 </samp>
 
