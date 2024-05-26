@@ -31,7 +31,7 @@
 <!--
 ---
 
-### Experience:
+### Work Experience:
 
 <p align="left">
 <img src="/res/cpq.svg" width="100"> June, 2021 - Present </img> &nbsp;
