@@ -24,7 +24,7 @@
   
 - :zap: I've integrated AI Powered Applitools in existing Automatiom framework (BDD) to overcome cosmetic issues
 
-- 📫 How to reach me **nairvishnu42@gmail.com**
+- 📫 You can reach me at: **nairvishnu42@gmail.com**
   
 </samp>
 
